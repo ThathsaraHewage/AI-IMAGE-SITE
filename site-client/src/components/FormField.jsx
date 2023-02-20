@@ -19,9 +19,9 @@ const FormField = ({
         <button
           type="button"
           onClick={handleSurpriseMe}
-          className="font-semibold text-xs bg-[#EcECF1] py-1 px-2 rounded-[5px] text-black"
+          className="font-semibold text-white bg-[#6469ff] py-1 px-2 rounded-[5px] text-black"
         >
-          Surprise me
+          Surprise me ( Click to get a sample prompt)
         </button>
       )}
     </div>
